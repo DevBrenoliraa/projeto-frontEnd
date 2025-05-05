@@ -1,4 +1,4 @@
-import { areaQuadrado, areaTriangulo } from "./areaQuadrado.js" 
+import { areaQuadrado, areaTriangulo } from "./04-areaQuadrado.js" 
 
 export const soma = (a, b) => {
     return a + b

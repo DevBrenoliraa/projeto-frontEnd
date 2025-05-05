@@ -1,4 +1,4 @@
-import soma from "./soma.js"
+import soma from "./05-soma.js"
 
 export const areaQuadrado = (lado) => {
     return lado*lado
