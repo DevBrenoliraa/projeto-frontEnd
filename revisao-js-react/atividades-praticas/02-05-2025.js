@@ -28,7 +28,6 @@ const soma = numeros03.reduce((a, b) => a + b, 0);
 const nomes04 = ["Ana", "Bruno", "Carlos", "Daniela"];
 const contemCarlos = nomes04.includes("Carlos");
 const resultadoCarlos = contemCarlos ? "O array contém o nome Carlos" : "O array não contém o nome Carlos";
-console.log(contemCarlos)
 console.log(resultadoCarlos);
 
 
